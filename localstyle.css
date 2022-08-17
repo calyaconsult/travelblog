@@ -1,0 +1,35 @@
+	@page {  }
+	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+	td, th { vertical-align:top; font-size:12pt;}
+	h1, h2, h3, h4, h5, h6 { clear:both }
+	ol, ul { margin:0; padding:0;}
+	li { list-style: none; margin:0; padding:0;}
+	<!-- "li span.odfLiEnd" - IE 7 issue-->
+	li span. { clear: both; line-height:0; width:0; height:0; margin:0; padding:0; }
+	span.footnodeNumber { padding-right:1em; }
+	span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
+	* { margin:0;}
+	.P1 { font-size:11pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Arial; writing-mode:lr-tb; font-weight:bold; }
+	.P10 { font-size:12pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Times New Roman; writing-mode:lr-tb; }
+	.P2 { font-size:11pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Arial; writing-mode:lr-tb; font-weight:bold; }
+	.P3 { font-size:12pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Times New Roman; writing-mode:lr-tb; }
+	.P4 { font-size:12pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Times New Roman; writing-mode:lr-tb; }
+	.P5 { font-size:11pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Arial; writing-mode:lr-tb; color:#000000; }
+	.P6 { font-size:11pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Arial; writing-mode:lr-tb; color:#000000; font-weight:bold; }
+	.P7 { font-size:11pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Arial; writing-mode:lr-tb; text-align:justify ! important; color:#000000; font-weight:bold; }
+	.P8 { font-size:12pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Times New Roman; writing-mode:lr-tb; text-align:justify ! important; }
+	.P9 { font-size:12pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Times New Roman; writing-mode:lr-tb; margin-left:0.185cm; margin-right:0cm; text-indent:0cm; }
+	.Standard { font-size:12pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Times New Roman; writing-mode:lr-tb; }
+	.T1 { font-family:Arial; font-size:11pt; font-weight:bold; }
+	.T10 { color:#000000; font-family:Arial; font-size:11pt; }
+	.T11 { color:#000000; font-family:Arial; font-size:11pt; text-decoration:underline; font-weight:bold; }
+	.T12 { color:#000000; font-family:Arial; font-size:11pt; font-style:italic; font-weight:bold; }
+	.T2 { font-family:Arial; font-size:11pt; }
+	.T3 { font-family:Arial; font-size:11pt; }
+	.T4 { font-family:Arial; font-size:11pt; }
+	.T5 { font-family:Arial; font-size:11pt; font-weight:bold; }
+	.T6 { font-family:Arial; font-size:11pt; font-weight:bold; }
+	.T7 { font-family:Arial; font-size:11pt; text-decoration:underline; font-weight:bold; }
+	.T9 { color:#000000; font-family:Arial; font-size:11pt; font-weight:bold; }
+	<!-- ODF styles with no properties representable as CSS -->
+	.ListLabel_20_1  { }
